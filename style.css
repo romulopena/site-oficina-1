@@ -7,21 +7,7 @@ header h1{
 
 }
 
-section h2{
-    color: green;
-}
 
-section p{
-    font-size: 20px;
-    color: white;
-    text-decoration: underline;
-    font-weight: bold;
-    text-align: center;
-}
-
-div ul a{
-    display: block;
-}
 
 .todo-mundo{
     display: grid;
