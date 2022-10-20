@@ -32,3 +32,6 @@ div ul a{
     display: block;
     
 }
+.todo-mundo a:hover{
+    color: blue;
+}
