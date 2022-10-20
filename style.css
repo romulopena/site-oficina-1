@@ -25,7 +25,7 @@ div ul a{
 
 .todo-mundo{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .todo-mundo a{
@@ -36,8 +36,9 @@ div ul a{
     color: blue;
     font-size: 15px;
 }
-h3{
-    color:blue;
+footer{
+    background: blue;
+    color:white;
     font-weight: bold;
     text-align: center;
 }
