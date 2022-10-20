@@ -21,6 +21,7 @@ section p{
 
 div ul a{
     display: block;
+    font-size: 15px;
 }
 
 .todo-mundo{
