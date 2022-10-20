@@ -33,8 +33,12 @@ div ul a{
     
 }
 .todo-mundo a:hover{
-    color: blue;
+    color: orange;
     font-size: 15px;
+}
+h3{
+    font-size: 28px;
+    color: blue;
 }
 footer{
     background: blue;
