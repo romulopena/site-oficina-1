@@ -34,4 +34,5 @@ div ul a{
 }
 .todo-mundo a:hover{
     color: blue;
+    font-size: 15px;
 }
