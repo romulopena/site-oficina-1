@@ -25,12 +25,25 @@ div ul a{
 }
 
 .todo-mundo{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    display: flex;
+    justify-content: center;
+    
+    
 }
 
+.todo-mundo__img{
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
+
+.img{
+    padding: 2px;
+    text-align: center;
+    margin: 0 auto;
+}
 .todo-mundo a{
-    display: block;
+    display: flex;
     
 }
 .todo-mundo a:hover{
